@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OdontoPrevAPI</name>
+    </assembly>
+    <members>
+        <member name="M:OdontoPrevAPI.Controllers.IAController.PreverComplexidade(OdontoPrevAPI.DTOs.ComplexidadeInputDTO)">
+            <summary>
+            Realiza a previsão da complexidade do tratamento.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.PacienteController.Get">
+            <summary>
+            Obtém todos os pacientes cadastrados.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.PacienteController.Get(System.Int32)">
+            <summary>
+            Obtém um paciente pelo ID.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.PacienteController.Post(OdontoPrevAPI.Models.Paciente)">
+            <summary>
+            Cadastra um novo paciente.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.PacienteController.Put(System.Int32,OdontoPrevAPI.Models.Paciente)">
+            <summary>
+            Atualiza um paciente existente.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.PacienteController.Delete(System.Int32)">
+            <summary>
+            Exclui um paciente pelo ID.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.SinistroController.Get">
+            <summary>
+            Obtém todos os sinistros cadastrados.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.SinistroController.Get(System.Int32)">
+            <summary>
+            Obtém um sinistro pelo ID.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.SinistroController.Post(OdontoPrevAPI.Models.Sinistro)">
+            <summary>
+            Cadastra um novo sinistro.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.SinistroController.Put(System.Int32,OdontoPrevAPI.Models.Sinistro)">
+            <summary>
+            Atualiza um sinistro existente.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.SinistroController.Delete(System.Int32)">
+            <summary>
+            Exclui um sinistro pelo ID.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.TratamentoController.Get">
+            <summary>
+            Obtém todos os tratamentos cadastrados.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.TratamentoController.Get(System.Int32)">
+            <summary>
+            Obtém um tratamento pelo ID.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.TratamentoController.Post(OdontoPrevAPI.Dtos.TratamentoDTO)">
+            <summary>
+            Cadastra um novo tratamento.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.TratamentoController.Put(System.Int32,OdontoPrevAPI.Dtos.TratamentoDTO)">
+            <summary>
+            Atualiza um tratamento existente.
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.TratamentoController.Delete(System.Int32)">
+            <summary>
+            Exclui um tratamento pelo ID.
+            </summary>
+        </member>
+        <member name="T:OdontoPrevAPI.Controllers.ViaCepController">
+            <summary>
+            Controlador responsável por consultar endereços via serviço externo (ViaCEP).
+            </summary>
+        </member>
+        <member name="M:OdontoPrevAPI.Controllers.ViaCepController.GetCep(System.String)">
+            <summary>
+            Consulta um endereço brasileiro a partir do CEP informado.
+            </summary>
+            <param name="cep">CEP no formato de 8 dígitos (ex: 01001000)</param>
+            <returns>Objeto com os dados do endereço ou erro de validação</returns>
+            <response code="200">Endereço encontrado com sucesso</response>
+            <response code="400">CEP inválido (diferente de 8 dígitos)</response>
+            <response code="404">CEP não encontrado</response>
+        </member>
+    </members>
+</doc>

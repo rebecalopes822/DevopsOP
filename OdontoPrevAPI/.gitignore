@@ -1,0 +1,59 @@
+# Compilação / binários
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# Arquivos de cache e temporários
+*.tmp
+*.log
+*.user
+*.vspscc
+*.vssscc
+*.suo
+*.userosscache
+*.sln.docstates
+
+#Configurações locais
+.vscode/
+.idea/
+*.swp
+*.bak
+
+#Configurações do Visual Studio
+.vs/
+*.dbmdl
+
+#Configuração de pacotes
+packages/
+*.nupkg
+
+#Resultados de teste
+TestResults/
+*.coverage
+*.coveragexml
+*.trx
+
+#ML.NET Model Builder
+*.mbconfig
+*.mlnet
+
+#Secretos
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+#Outros
+*.cache
+*.sqlite
+*.mdf
+*.ldf
+
+#Diretórios específicos ignorados
+OdontoPrevAPI/bin/
+OdontoPrevAPI/obj/
+OdontoPrevAPI.Tests/bin/
+OdontoPrevAPI.Tests/obj/
+OdontoPrevMLTrainer/bin/
+OdontoPrevMLTrainer/obj/

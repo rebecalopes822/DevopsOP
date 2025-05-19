@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdontoPrevAPI", "OdontoPrevAPI.csproj", "{22DA8C94-7BC7-4461-B1E8-FE7F2AB2D173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdontoPrevMLTrainer", "..\OdontoPrevMLTrainer\OdontoPrevMLTrainer.csproj", "{D125FFF8-4685-417C-B4B6-4A39568993D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OdontoPrevAPI.Tests", "..\OdontoPrevAPI.Tests\OdontoPrevAPI.Tests.csproj", "{75739E87-0AF2-4AD0-A348-2B66BDA5C3EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{192E20A6-E820-40D4-B63D-EC862B0D6F8A}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22DA8C94-7BC7-4461-B1E8-FE7F2AB2D173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22DA8C94-7BC7-4461-B1E8-FE7F2AB2D173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22DA8C94-7BC7-4461-B1E8-FE7F2AB2D173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22DA8C94-7BC7-4461-B1E8-FE7F2AB2D173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D125FFF8-4685-417C-B4B6-4A39568993D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D125FFF8-4685-417C-B4B6-4A39568993D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D125FFF8-4685-417C-B4B6-4A39568993D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D125FFF8-4685-417C-B4B6-4A39568993D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75739E87-0AF2-4AD0-A348-2B66BDA5C3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75739E87-0AF2-4AD0-A348-2B66BDA5C3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75739E87-0AF2-4AD0-A348-2B66BDA5C3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75739E87-0AF2-4AD0-A348-2B66BDA5C3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A7790A5-FBC8-4D01-96A1-628F74320D30}
+	EndGlobalSection
+EndGlobal
