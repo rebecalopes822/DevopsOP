@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rebec\\OneDrive\\Documentos\\new dot\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj": {}
+    "C:\\Users\\rebec\\Downloads\\dot para deploy\\OdontoPrevAPI\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rebec\\OneDrive\\Documentos\\new dot\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj": {
+    "C:\\Users\\rebec\\Downloads\\dot para deploy\\OdontoPrevAPI\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rebec\\OneDrive\\Documentos\\new dot\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj",
+        "projectUniqueName": "C:\\Users\\rebec\\Downloads\\dot para deploy\\OdontoPrevAPI\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj",
         "projectName": "OdontoPrevMLTrainer",
-        "projectPath": "C:\\Users\\rebec\\OneDrive\\Documentos\\new dot\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj",
+        "projectPath": "C:\\Users\\rebec\\Downloads\\dot para deploy\\OdontoPrevAPI\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj",
         "packagesPath": "C:\\Users\\rebec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rebec\\OneDrive\\Documentos\\new dot\\OdontoPrevMLTrainer\\obj\\",
+        "outputPath": "C:\\Users\\rebec\\Downloads\\dot para deploy\\OdontoPrevAPI\\OdontoPrevMLTrainer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKdJrveJbqM=",
+  "dgSpecHash": "37/hFlhcmms=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rebec\\OneDrive\\Documentos\\new dot\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj",
+  "projectFilePath": "C:\\Users\\rebec\\Downloads\\dot para deploy\\OdontoPrevAPI\\OdontoPrevMLTrainer\\OdontoPrevMLTrainer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rebec\\.nuget\\packages\\google.protobuf\\3.27.1\\google.protobuf.3.27.1.nupkg.sha512",
     "C:\\Users\\rebec\\.nuget\\packages\\lightgbm\\3.3.5\\lightgbm.3.3.5.nupkg.sha512",
