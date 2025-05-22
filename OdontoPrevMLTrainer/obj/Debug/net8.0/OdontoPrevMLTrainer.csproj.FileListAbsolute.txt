@@ -150,7 +150,6 @@ C:\Users\rebec\OneDrive\Documentos\new dot\OdontoPrevMLTrainer\obj\Debug\net8.0\
 C:\Users\rebec\OneDrive\Documentos\new dot\OdontoPrevMLTrainer\obj\Debug\net8.0\OdontoPrevMLTrainer.pdb
 C:\Users\rebec\OneDrive\Documentos\new dot\OdontoPrevMLTrainer\obj\Debug\net8.0\OdontoPrevMLTrainer.genruntimeconfig.cache
 C:\Users\rebec\OneDrive\Documentos\new dot\OdontoPrevMLTrainer\obj\Debug\net8.0\ref\OdontoPrevMLTrainer.dll
-C:\Users\rebec\Downloads\dot para deploy\OdontoPrevAPI\OdontoPrevMLTrainer\bin\Debug\net8.0\ComplexidadeModel.mlnet
 C:\Users\rebec\Downloads\dot para deploy\OdontoPrevAPI\OdontoPrevMLTrainer\bin\Debug\net8.0\OdontoPrevMLTrainer.exe
 C:\Users\rebec\Downloads\dot para deploy\OdontoPrevAPI\OdontoPrevMLTrainer\bin\Debug\net8.0\complexidade_tratamento_500.csv
 C:\Users\rebec\Downloads\dot para deploy\OdontoPrevAPI\OdontoPrevMLTrainer\bin\Debug\net8.0\OdontoPrevMLTrainer.deps.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OdontoPrevMLTrainer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cb7f25e7bdb7323f5c269a607c9cf01cd70fa47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20b7afa8faa43fce9bae19e9e138f4dd7240e9ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("OdontoPrevMLTrainer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OdontoPrevMLTrainer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

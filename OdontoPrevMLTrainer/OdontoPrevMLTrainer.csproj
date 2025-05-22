@@ -16,9 +16,4 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.ML.AutoML" Version="0.22.2" />
   </ItemGroup>
-  <ItemGroup Label="ComplexidadeModel">
-    <None Include="ComplexidadeModel.mlnet">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
 </Project>
